@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2641b1e6-ef46-467a-940a-f4ef997b94da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/Edith.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/products_display.blade.php" afterDir="false" />
+    <list default="true" id="2641b1e6-ef46-467a-940a-f4ef997b94da" name="Default Changelist" comment="edit error">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/StockMobileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/StockMobileController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/products_display.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products_display.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +17,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/storage/logs/laravel.log" root0="SKIP_INSPECTION" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -138,7 +137,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.data.extractors.current.export.id" value="Excel (xlsx)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../onlineshopping" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -170,12 +169,28 @@
       <workItem from="1597472136672" duration="10412000" />
       <workItem from="1597482629018" duration="17656000" />
       <workItem from="1597741013534" duration="11793000" />
-      <workItem from="1597752972122" duration="780000" />
+      <workItem from="1597752972122" duration="2614000" />
+      <workItem from="1597773642322" duration="1539000" />
+      <workItem from="1597775211411" duration="64000" />
+      <workItem from="1597775286777" duration="3449000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1597753826303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597753826303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="edit error" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit error" />
   </component>
   <component name="WindowStateProjectService">
     <state x="358" y="166" width="706" height="460" key="#Log_Highlighting_(ideolog)" timestamp="1597752546495">
@@ -190,14 +205,18 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="154" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1597497667711" />
+    <state x="255" y="27" width="912" height="741" key="CommitChangelistDialog2" timestamp="1597777765926">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="255" y="27" width="912" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1597777765926" />
     <state x="399" y="154" width="624" height="484" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1597500851859">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="399" y="154" width="624" height="484" key="DUMP_DIALOG_DIMENSION_KEY/67.27.1299.741@67.27.1299.741" timestamp="1597500851859" />
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597500963097">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597774540923">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1597500963097" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1597774540923" />
     <state width="856" height="175" key="GridCell.Tab.0.bottom" timestamp="1597475291104">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

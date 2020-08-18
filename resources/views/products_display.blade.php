@@ -53,6 +53,10 @@
                                 <div class="well col-sm-6">
                                     <form>
                                         @csrf
+
+                                            <input type="text" style="display: none" value="{{ old('id') }}"
+
+                                                               id="id">
                                         <div class="col-xs-6">
                                             Store Owner:<input type="text" value="{{ old('store_owner') }}"
                                                                name="store_owner"
@@ -157,8 +161,8 @@
         $('#update').click(function (e) {
             e.preventDefault();
             $('#update').html('SENDING...')
-            console.log("id");
             var id = $("input[id=id]").val();
+            console.log(id);
             var store_owner = $("input[id=store_owner]").val();
             var product = $("input[id=product]").val();
             var quantity_available = $("input[id=quantity_available]").val();

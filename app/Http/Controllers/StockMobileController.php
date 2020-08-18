@@ -50,8 +50,9 @@ class StockMobileController extends Controller
     }
     public function updateProducts(Request $request,$id)
     {
-//        Log::info($request);
-        $data=$this->getItemById($id);
+
+        $data= $this->getItemById($id);
+        Log::info($data);
         $data->store_owner = $request->store_owner;
         $data->product = $request->product;
         $data->quantity_available = $request->quantity_available;
